@@ -36,7 +36,8 @@ list all files in directories
 > *current directory  
 > *parent directory  
 > */boot directory  
-respectively  
+   
+respectively   
 
 12. 12-file_type  
 display file type for *iamafile* in `/tmp/` directory  
@@ -48,6 +49,17 @@ create a symbolic link to `/bin/ls` named *__ls__*
 Create a script that copies all the HTML files from the current working directory to the parent of the working directory,  
 but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.  
 
-15. 100-lets_move
-cp all uppercase files to `/tmp/u`  
-  
+15. 100-lets_move  
+move all uppercase files to `/tmp/u`  
+
+16. 101-clean_emacs  
+Create a script that deletes all emacs files that end with `~`  
+
+17. 102-tree  
+create a script thate creates directories `welcome`, `welcome/to/`, and `welcome/to/holberton` in the current directory  
+
+18. 103-commas  
+create a script that print files in current directory seperated by commas and directories that end with slash `/`  
+
+19. holberton.mgc  
+holberton magic file 
