@@ -1,9 +1,9 @@
-#System Engineering DevOps  
+# System Engineering DevOps  
 
 
 **Inside:**  
 
-##Shell Basics  
+## Shell Basics  
 
 Introduction to linux shell
 
